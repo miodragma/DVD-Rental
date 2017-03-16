@@ -1,4 +1,4 @@
-
+# DVD Rental
 ,,DVD Rental’’ is a web application with a jQuery frontend and Express.js 
 backend. The backend uses the PostgreSQL sample database ,,DVD rental”.
 The user can search database tables and view all columns and rows of a table
