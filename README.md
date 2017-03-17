@@ -1,5 +1,5 @@
-# DVD Rental
-,,DVD Rental’’ is a web application with a jQuery frontend and Express.js 
+# DVD rental
+,,DVD rental’’ is a web application with a jQuery frontend and Express.js 
 backend. The backend uses the PostgreSQL sample database ,,DVD rental”.
 The user can search database tables and view all columns and rows of a table
 with a search functionality by each column value. There are order buttons in the 
@@ -20,19 +20,19 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installing
 
-Assuming you’ve already installed Node.js, create a directory to hold DVD Rental application.
+Assuming you’ve already installed Node.js, create a directory to hold DVD rental web application.
 ``` 
 $ mkdir myapp
 $ cd myapp
 ```
-Use the npm init command to create a package.json file for your application. For more information on how package.json works, see ``` https://docs.npmjs.com/files/package.json ```.
+Use the npm init command to create a package.json file for DVD rental web application. For more information on how package.json works, see ``` https://docs.npmjs.com/files/package.json ```.
 To create a package.json run:
 
 ``` 
 $ npm init
 ```
 
-This command prompts you for a number of things, such as the name and version of your application. For now, you can simply hit RETURN to accept the defaults for most of them, with the following exception:
+This command prompts you for a number of things, such as the name and version of DVD rental web application. For now, you can simply hit RETURN to accept the defaults for most of them, with the following exception:
 
 ```
 entry point: (index.js)
@@ -107,4 +107,4 @@ End of create package.json
 
 ### Start
 
-Go to myapp directory and use the ``` npm start ``` command to start DVD Rental application.
+Go to myapp directory and use the ``` npm start ``` command to start DVD rental web application.
